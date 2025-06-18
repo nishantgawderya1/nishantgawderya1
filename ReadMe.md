@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CargoFlow: Logistics Management System<br>👯 I’m looking for a DSA buddy<br>🌱 I’m currently learning EDA (Exploratory Data Analysis)<br>
+🔭 I’m currently working on CargoFlow: Logistics Management System<br>👯 I’m looking for a DSA buddy 😉<br>🌱 I’m currently learning EDA (Exploratory Data Analysis)<br>
 
 
 ## 🌐 Socials:
