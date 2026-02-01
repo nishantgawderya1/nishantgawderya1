@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I create AI integrated efficient softwares<br>👯 I’m looking for a DSA buddy 😉<br>🌱 I’m currently learning EDA (Exploratory Data Analysis)<br>
+🍵I use Java to build scalable systems and AI/ML to make them intelligent.<br>🔭 I create AI integrated efficient softwares<br>👯 I’m looking for a DSA buddy 😉<br>🌱 I’m currently learning EDA (Exploratory Data Analysis)<br>
 
 
 ## 🌐 Socials:
