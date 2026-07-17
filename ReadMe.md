@@ -29,10 +29,9 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**
 ## 💼 Experience
 
 ### Founder’s Office Intern · CityFurnish (Y Combinator W19)
-**May 2026 – Present · Gurugram, India**
-- Scoped and implemented AI-powered CCTV monitoring integrations across warehouse locations.
-- Built an end-to-end n8n automation pipeline connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses.
-- Generated daily variance reports and reduced manual reconciliation from hours to near real-time workflows.
+**May 2026 – August 2026 · Gurugram, India**
+- Built an end-to-end n8n automation pipeline with full stack web-app connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses.
+- Generated daily variance reports and reduced manual reconciliation from hours to near real-time automated workflows.
 
 ### Research Trainee · I-Hub Foundation for Cobotics (IHFC), IIT Delhi
 **January 2026 – May 2026 · New Delhi, India**
