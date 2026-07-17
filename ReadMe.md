@@ -25,12 +25,11 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**
 
 ### Founder’s Office Intern · CityFurnish (Y Combinator W19)
 **May 2026 – August 2026 · Gurugram, India**
-- Built an end-to-end n8n automation pipeline with full stack web-app connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses.
+- Built an end-to-end n8n automation pipeline with full stack web-app connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses reducing the manual reconcilation process time from hours to real-time automated process.
   
 ### Research Trainee · I-Hub Foundation for Cobotics (IHFC), IIT Delhi
 **January 2026 – May 2026 · New Delhi, India**
 - Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance).
-- Implemented low-latency WebSocket feedback pipelines (around 200ms) for joint-angle estimation.
 - Pre-incubated at IIT Delhi IHFC and secured Rs. 4 lakh pre-seed funding (1 of 12 selected nationally).
 
 ## 🚀 Projects
