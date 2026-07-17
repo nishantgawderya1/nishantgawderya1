@@ -32,20 +32,6 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**
 - Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance).
 - Pre-incubated at IIT Delhi IHFC and secured Rs. 4 lakh pre-seed funding (1 of 12 selected nationally).
 
-## 🚀 Projects
-
-### Voxenx · AI-Powered Video Calling Web App
-React, Node.js, Socket.IO, WebRTC, MongoDB, Whisper, GPT-4o
-- Built a full-stack video calling app with custom signaling and WebRTC peer connection management. Integrated Whisper for real-time call transcription and GPT-4o for automated post-call summaries and action items.
-
-### Cerebrax.ai · Full-Stack AI SaaS Platform
-Next.js, React, Node.js, Express, PostgreSQL, OpenAI API, Clerk, Cloudinary
-- Built and deployed an AI content and image platform with blog generation, title generation. Integrated OpenAI APIs for generation workflows, Cloudinary for media pipelines, and Clerk for authentication.
-
-### Movement with Physios · Cross-Platform Patient App
-React Native (Expo), WebSockets, Node.js
-- Built a patient-facing mobile app with structured onboarding and multi-tab navigation.
-
 ## 🏆 Honours & Awards
 
 - **Pre-Seed Funding (IIT Delhi IHFC):** Secured Rs. 4 lakh for ReVive; 1 of 12 ideas selected nationally.
