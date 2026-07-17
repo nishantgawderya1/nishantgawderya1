@@ -1,13 +1,68 @@
-# 💫 About Me:
-🍵I use Java to build scalable systems and AI/ML to make them intelligent.<br>🔭 I create AI integrated efficient softwares<br>👯 I’m looking for a DSA buddy 😉<br>🌱 I’m currently learning EDA (Exploratory Data Analysis)<br>
+# Hi, I'm Nishant Gawderya 👋
 
+Full-stack engineer building end-to-end products with real-time systems and applied AI.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nishantlifts/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-gawderya/) 
+- 🌐 Portfolio: [nishantgawderya.me](https://nishantgawderya.me)
+- 📧 Email: [nishantgawderya@gmail.com](mailto:nishantgawderya@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nishant-gawderya](https://www.linkedin.com/in/nishant-gawderya/)
+- 🧑‍💻 GitHub: [github.com/nishantgawderya1](https://github.com/nishantgawderya1)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I work across frontend, backend, and AI integrations—shipping products from schema design to production deployment.  
+I’ve built with MERN/Next.js, integrated OpenAI APIs, WebSockets, and LangGraph-based agentic workflows, and worked with teams backed by IIT Delhi IHFC and Y Combinator.
 
+## 🎓 Education
+
+**Shree Guru Gobind Singh Tricentenary University**  
+B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**  
+2024 – 2028 (Expected), Gurugram, India
+
+## 🛠️ Skills
+
+- **Frontend:** React.js, Next.js, React Native (Expo), Tailwind CSS, JavaScript, TypeScript, HTML, CSS
+- **Backend:** Node.js, Express.js, FastAPI, Flask, REST APIs, WebSockets, Socket.IO, WebRTC
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **AI & Agentic:** OpenAI API (GPT-4o, Whisper), LangChain, LangGraph, RAG (semantic + BM25), YOLOv8
+- **Tools & Infra:** Docker, Git, GitHub, AWS, Vercel, n8n, Clerk, Cloudinary, Postman
+
+## 💼 Experience
+
+### Founder’s Office Intern · CityFurnish (Y Combinator W19)
+**May 2026 – Present · Gurugram, India**
+- Scoped and implemented AI-powered CCTV monitoring integrations across warehouse locations.
+- Built an end-to-end n8n automation pipeline connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses.
+- Generated daily variance reports and reduced manual reconciliation from hours to near real-time workflows.
+
+### Research Trainee · I-Hub Foundation for Cobotics (IHFC), IIT Delhi
+**January 2026 – May 2026 · New Delhi, India**
+- Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance).
+- Implemented low-latency WebSocket feedback pipelines (around 200ms) for joint-angle estimation.
+- Pre-incubated at IIT Delhi IHFC and secured Rs. 4 lakh pre-seed funding (1 of 12 selected nationally).
+
+### Data Analyst Intern · International Institute of SDGs & Public Policy Research (IISPPR)
+**September 2025 – November 2025 · Remote**
+- Built an end-to-end ML pipeline on GEM datasets using XGBoost, Random Forest, SMOTE, and SHAP.
+- Delivered full research-to-report analytical outputs for public policy audiences.
+
+## 🚀 Projects
+
+### Voxenx · AI-Powered Video Calling Web App
+React, Node.js, Socket.IO, WebRTC, MongoDB, Whisper, GPT-4o
+- Built a full-stack video calling app with custom signaling and WebRTC peer connection management.
+- Integrated OpenAI Whisper for real-time call transcription and GPT-4o for automated post-call summaries and action items.
+
+### Cerebrax.ai · Full-Stack AI SaaS Platform
+Next.js, React, Node.js, Express, PostgreSQL, OpenAI API, Clerk, Cloudinary
+- Built and deployed an AI content and image platform with blog generation, title generation, and background/object removal.
+- Integrated OpenAI APIs for generation workflows, Cloudinary for media pipelines, and Clerk for authentication.
+
+### Movement with Physios · Cross-Platform Patient App
+React Native (Expo), WebSockets, Node.js
+- Built a patient-facing mobile app with structured onboarding and multi-tab navigation.
+- Added live session tracking for both rep-count and duration modes.
+
+## 🏆 Honours & Awards
+
+- **Pre-Seed Funding (IIT Delhi IHFC):** Secured Rs. 4 lakh for ReVive; 1 of 12 ideas selected nationally.
+- **1st Place, Detectify Competition:** Built a rooftop detection model on satellite imagery using YOLOv8.
