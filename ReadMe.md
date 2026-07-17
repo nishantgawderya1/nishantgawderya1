@@ -22,7 +22,7 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**
 
 - **Frontend:** React.js, Next.js, React Native (Expo), Tailwind CSS, JavaScript, TypeScript, HTML, CSS
 - **Backend:** Node.js, Express.js, FastAPI, Flask, REST APIs, WebSockets, Socket.IO, WebRTC
-- **Databases:** PostgreSQL, MongoDB, Redis
+- **Databases:** PostgreSQL, MongoDB, SQL
 - **AI & Agentic:** OpenAI API (GPT-4o, Whisper), LangChain, LangGraph, RAG (semantic + BM25), YOLOv8
 - **Tools & Infra:** Docker, Git, GitHub, AWS, Vercel, n8n, Clerk, Cloudinary, Postman
 
@@ -48,18 +48,15 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**
 
 ### Voxenx · AI-Powered Video Calling Web App
 React, Node.js, Socket.IO, WebRTC, MongoDB, Whisper, GPT-4o
-- Built a full-stack video calling app with custom signaling and WebRTC peer connection management.
-- Integrated OpenAI Whisper for real-time call transcription and GPT-4o for automated post-call summaries and action items.
+- Built a full-stack video calling app with custom signaling and WebRTC peer connection management. Integrated Whisper for real-time call transcription and GPT-4o for automated post-call summaries and action items.
 
 ### Cerebrax.ai · Full-Stack AI SaaS Platform
 Next.js, React, Node.js, Express, PostgreSQL, OpenAI API, Clerk, Cloudinary
-- Built and deployed an AI content and image platform with blog generation, title generation, and background/object removal.
-- Integrated OpenAI APIs for generation workflows, Cloudinary for media pipelines, and Clerk for authentication.
+- Built and deployed an AI content and image platform with blog generation, title generation. Integrated OpenAI APIs for generation workflows, Cloudinary for media pipelines, and Clerk for authentication.
 
 ### Movement with Physios · Cross-Platform Patient App
 React Native (Expo), WebSockets, Node.js
 - Built a patient-facing mobile app with structured onboarding and multi-tab navigation.
-- Added live session tracking for both rep-count and duration modes.
 
 ## 🏆 Honours & Awards
 
