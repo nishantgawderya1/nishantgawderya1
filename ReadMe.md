@@ -10,7 +10,7 @@ Full-stack engineer building end-to-end products with real-time systems and appl
 ## 🎓 Education
 
 **Shree Guru Gobind Singh Tricentenary University**  
-B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.6**  
+B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.8**  
 2024 – 2028 (Expected), Gurugram, India
 
 ## 🛠️ Skills
