@@ -1,17 +1,13 @@
 # Hi, I'm Nishant Gawderya 👋
 
-Full-stack engineer building end-to-end products with real-time systems and applied AI.
-
 - 🌐 Portfolio: [nishantgawderya.me](https://nishantgawderya.me)
 - 📧 Email: [nishantgawderya@gmail.com](mailto:nishantgawderya@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nishant-gawderya](https://www.linkedin.com/in/nishant-gawderya/)
-- 🧑‍💻 GitHub: [github.com/nishantgawderya1](https://github.com/nishantgawderya1)
 
 ## 🎓 Education
 
 **Shree Guru Gobind Singh Tricentenary University**  
 B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.8**  
-2024 – 2028 (Expected), Gurugram, India
 
 ## 🛠️ Skills
 
@@ -29,10 +25,5 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.8**
   
 ### Research Trainee · I-Hub Foundation for Cobotics (IHFC), IIT Delhi
 **January 2026 – May 2026 · New Delhi, India**
-- Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance).
+- Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance). 
 - Pre-incubated at IIT Delhi IHFC and secured Rs. 4 lakh pre-seed funding (1 of 12 selected nationally).
-
-## 🏆 Honours & Awards
-
-- **Pre-Seed Funding (IIT Delhi IHFC):** Secured Rs. 4 lakh for ReVive; 1 of 12 ideas selected nationally.
-- **1st Place, Detectify Competition:** Built a rooftop detection model on satellite imagery using YOLOv8.
