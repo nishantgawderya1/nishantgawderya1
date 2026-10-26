@@ -1,14 +1,3 @@
-# Hi, I'm Nishant Gawderya 👋
-
-- 🌐 Portfolio: [nishantgawderya.me](https://nishantgawderya.me)
-- 📧 Email: [nishantgawderya@gmail.com](mailto:nishantgawderya@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nishant-gawderya](https://www.linkedin.com/in/nishant-gawderya/)
-
-## 🎓 Education
-
-**Shree Guru Gobind Singh Tricentenary University**  
-B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.8**  
-
 ## 🛠️ Skills
 
 - **Frontend:** React.js, Next.js, React Native (Expo), Tailwind CSS, JavaScript, TypeScript, HTML, CSS
@@ -18,11 +7,7 @@ B.Tech, Computer Science & Engineering (AI/ML) · GPA: **8.8**
 - **Tools & Infra:** Docker, Git, GitHub, AWS, Vercel, n8n, Clerk, Cloudinary, Postman
 
 ## 💼 Experience
-
-### Founder’s Office Intern · CityFurnish (Y Combinator W19)
-**May 2026 – August 2026 · Gurugram, India**
-- Built an end-to-end n8n automation pipeline with full stack web-app connecting guard-register data, Odoo ERP, and delivery tracking across 5 warehouses reducing the manual reconcilation process time from hours to real-time automated process.
-  
+ 
 ### Research Trainee · I-Hub Foundation for Cobotics (IHFC), IIT Delhi
 **January 2026 – May 2026 · New Delhi, India**
 - Built ReVive, a computer-vision physiotherapy assistant using React frontend, FastAPI backend, and MediaPipe Pose (33 keypoints, ±3° tolerance). 
